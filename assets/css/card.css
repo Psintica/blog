@@ -1,5 +1,5 @@
 .card {
-  box-shadow: 0 4px 8px 0 rgba(8, 0, 122, 0.5);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
   transition: 250ms;
   border-radius: 5px; /* 5px rounded corners */
   width: 300px;
@@ -15,7 +15,7 @@
 
 /* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 28px 56px 0 rgba(8, 0, 122, 0.5);
+  box-shadow: 0 28px 56px 0 rgba(0, 0, 0, 0.7);
 }
 
 /* Add some padding inside the card container */
@@ -28,7 +28,7 @@
 }
 
 .button a {
-  background: rgb(8, 0, 122);
+  background: rgba(0, 0, 0, 1);
   padding: 10px 15px;
   margin-top: 2px;
   margin: 0.25em;
@@ -38,7 +38,7 @@
 }
 
 .button a:hover {
-  background: rgb(24, 15, 156);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 a {
