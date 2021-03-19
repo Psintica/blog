@@ -7,10 +7,9 @@ body {
 }
 
 .intro {
-  background-image: url(https://amanasci.github.io/blog/assets/images/background.jpg);
-  background-size: cover;
+  background-image: url("/assets/images/background.png"); /*use url https://psintica.github.io/blog/assets/images/background.jpg  in production*/
+  background-size: auto;
   place-items: center;
-  display: flex;
   justify-content: space-around;
   padding: 10%;
   box-sizing: border-box;
@@ -20,7 +19,6 @@ body {
 @media screen and (max-width: 600px) {
   .intro {
     place-items: center;
-    display: flex;
     justify-content: space-around;
     padding: 10%;
     box-sizing: border-box;
