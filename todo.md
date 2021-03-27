@@ -1,6 +1,6 @@
 - fix sharing links
 - fix padding for the "category" padding [x]
-- fix front banner
+- fix front banner [x]
 
 
 
