@@ -7,7 +7,12 @@ body {
 }
 
 .intro {
-  background-image: url("/assets/images/background.png"); /*use url https://psintica.github.io/blog/assets/images/background.jpg  in production*/
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.989
+  ); /*use url https://psintica.github.io/blog/assets/images/background.jpg  in production*/
   background-size: auto;
   place-items: center;
   justify-content: space-around;
