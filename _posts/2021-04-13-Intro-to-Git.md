@@ -4,7 +4,7 @@ title:  "Intro to Git"
 date:   2021-03-27 08:30:07 +0530
 author: "aman"
 categories:
-    - Computer Science
+    - ComputerScience
 
 usemathjax: false
 synopsis: Introduction to Git and some best resources to start with Git and Github. 
