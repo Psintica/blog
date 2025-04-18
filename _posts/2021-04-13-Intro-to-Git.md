@@ -46,10 +46,27 @@ That's all for some basic information. Let's go with some beginners learning res
 3. [Git and Github - Coding Train](https://youtube.com/playlist?list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)
 4. [Github Pages](https://www.youtube.com/watch?v=QyFcl_Fba-k)
 
-> Task for Psintica Members: Make a github repo with a Hello World Program in your desired language. Name it "Psintica Hello World". 
+## Some Sample Tasks
 
-> Deadline : None. 
+Here is a list of task that can help you to get started with Git and Github.
 
-> Note: Use git command line interface.
+1. Create a new repository on Github and clone it to your local machine.
+2. Create a new file in the cloned repository and add some content to it.
+3. Add the file to the staging area and commit it.
+4. Push the changes to the remote repository.
+5. Create a new branch and switch to it.
+6. Make some changes to the file and commit it.
+7. Merge the changes to the main branch.
+8. Create a pull request and merge it to the main branch.
+9. Create a new issue and assign it to someone.
+10. Create a new wiki page and add some content to it.
+11. Create a new project and add some tasks to it.
+12. Create a new release and add some notes to it.
+13. Create a new gist and add some code to it.
+14. Create a new organization and add some members to it.
+15. Create a new team and add some members to it.
+16. Create a new repository and add some collaborators to it.
+17. Create a new issue and add some labels to it.
+18. Create a new pull request and add some comments to it.
 
 If you have any problems please ask in your Psintica Group or in comment section down below (if it exists). 
